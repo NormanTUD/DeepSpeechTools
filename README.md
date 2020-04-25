@@ -3,7 +3,7 @@ Some tools for training DeepSpeech
 
 # Tools
 
-> bash addnoise.sh
+## addnoise.sh
 
 Adds noise to the Common-Voice dataset. Run like this:
 
